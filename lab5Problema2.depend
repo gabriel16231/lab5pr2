@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1680134978 source:c:\users\ggabi\desktop\ap\lab5problema2\functii.c
+	"functii.h"
+
+1680134978 c:\users\ggabi\desktop\ap\lab5problema2\functii.h
+	<stdio.h>
+	<stdlib.h>
+
